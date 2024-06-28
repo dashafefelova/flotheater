@@ -1,0 +1,725 @@
+body{
+    background-color: #D0D0D0;
+    width: auto;
+    height: auto;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+}
+
+:root{
+    font-family: 'Montserrat';
+}
+
+.ballcursor3{
+    position: fixed;
+    width: 5vw;
+    height: 5vw;
+    border-radius: 50vw;
+    background: radial-gradient(#D8FFB9, #FFADEB);
+    filter: blur(10px);
+    z-index: 10;
+}
+
+#logo{
+    width: 5vw;
+    color: #E973CF;
+    font-weight: 550;
+    font-size: 1.4vw;
+}
+
+#logo:hover{
+    color: #FFF282;
+}
+
+.pinkbuttons{
+    width: 5vw;
+    color: #E973CF;
+    font-size: 1vw;
+}
+
+.yellowbuttons{
+    color: #FFF282;
+    font-size: 1vw;
+}
+
+/* шапка */
+
+header{
+    position: relative;
+    top: 1.5vw;
+    left: 1.5vw;
+    width: 10vw;
+    cursor: pointer;
+}
+
+#abouttheater:hover{
+    color: #D8FFB9;
+}
+
+#abouttheater{
+    position: relative;
+    top: 0.5vw;
+    left: 1.5vw;
+}
+
+#threedtour:hover{
+    color: #D8FFB9;
+}
+
+#threedtour{
+    position: relative;
+    top: 1vw;
+    left: 4vw;
+}
+
+#repertoire:hover{
+    color: #D8FFB9;
+}
+
+#repertoire{
+    position: relative;
+    top: 1.5vw;
+    left: 3vw;
+}
+
+#magazine:hover{
+    color: #D8FFB9;
+}
+
+#magazine{
+    position: relative;
+    top: 2vw;
+    left: 1vw;
+    z-index: 2;
+}
+
+#shop:hover{
+    color: #D8FFB9;
+}
+
+#shop{
+    position: relative;
+    top: 2.5vw;
+    left: 2.5vw;
+    z-index: 2;
+}
+
+#aboutunusual:hover{
+    color: #D8FFB9;
+}
+
+#aboutunusual{
+    position: relative;
+    top: 3vw;
+    left: 3.5vw;
+    z-index: 2;
+}
+
+#afisha{
+    width: 10vw;
+    position: relative;
+    left: 88vw;
+    bottom: 5vw;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+#afisha:hover{
+    color: #D8FFB9;
+}
+
+a{
+    text-decoration: none
+}
+
+/* posters */
+
+.clicker{
+    cursor: pointer;
+}
+
+.boxposters .scale:hover img{
+    transform: scale(1.2);
+    transition: 1s;
+}
+
+.boxposters{
+    height: 70vw;
+    position: relative;
+    top: 8vw;
+    overflow: hidden;
+    animation: moveposters 20s linear infinite; 
+}
+
+@keyframes moveposters{
+    from{ text-indent: 70%;}
+    to{ text-indent: -990%;}
+}
+
+.plakone{
+    width: 15vw;
+    position: relative;
+    left: 3vw;
+    top: 3vw;
+}
+
+.plakone img{
+    width: 15vw;
+}
+
+.plaktwo{
+    width: 15vw;
+    position: relative;
+    left: 4vw;
+    top: 7vw;
+}
+
+.plaktwo img{
+    width: 15vw;
+}
+
+.plakthree{
+    width: 15vw;
+    position: absolute;
+    left: 23vw;
+    top: 12vw;
+}
+
+.plakthree img{
+    width: 15vw;
+}
+
+.plakfour{
+    width: 15vw;
+    position: absolute;
+    left: 42vw;
+    bottom: 43vw;
+}
+
+.plakfour img{
+    width: 15vw;
+}
+
+.plakfive{
+    width: 15vw;
+    position: absolute;
+    left: 45vw;
+    top: 33vw;
+}
+
+.plakfive img{
+    width: 15vw;
+}
+
+.plaksix{
+    width: 15vw;
+    position: absolute;
+    left: 60vw;
+    bottom: 44vw;
+}
+
+.plaksix img{
+    width: 15vw;
+}
+
+.plakseven{
+    width: 15vw;
+    position: absolute;
+    left: 66vw;
+    top: 30vw;
+}
+
+.plakseven img{
+    width: 15vw;
+}
+
+.plakeight{
+    width: 15vw;
+    position: absolute;
+    left: 80vw;
+    bottom: 43vw;
+}
+
+.plakeight img{
+    width: 15vw;
+}
+
+.plaknine{
+    width: 15vw;
+    position: absolute;
+    left: 86vw;
+    top: 34vw;
+}
+
+.plaknine img{
+    width: 15vw;
+}
+
+.plakten{
+    width: 15vw;
+    position: absolute;
+    left: 100vw;
+    bottom: 44vw;
+}
+
+.plakten img{
+    width: 15vw;
+}
+
+.plakeleven{
+    width: 15vw;
+    position: absolute;
+    left: 105vw;
+    bottom: 15vw;
+}
+
+.plakeleven img{
+    width: 15vw;
+}
+
+.plaktwelve{
+    width: 15vw;
+    position: absolute;
+    left: 124vw;
+    bottom: 40vw;
+}
+
+.plaktwelve img{
+    width: 15vw;
+}
+
+.plakthirteen{
+    width: 15vw;
+    position: absolute;
+    left: 127vw;
+    bottom: 12vw;
+}
+
+.plakthirteen img{
+    width: 15vw;
+}
+
+.plakfourteen{
+    width: 15vw;
+    position: absolute;
+    left: 144vw;
+    bottom: 38vw;
+}
+
+.plakfourteen img{
+    width: 15vw;
+}
+
+.plakfiveteen{
+    width: 15vw;
+    position: absolute;
+    left: 150vw;
+    bottom: 10vw;
+}
+
+.plakfiveteen img{
+    width: 15vw;
+}
+
+.plaksixteen{
+    width: 15vw;
+    position: absolute;
+    left: 168vw;
+    bottom: 27vw;
+}
+
+.plaksixteen img{
+    width: 15vw;
+}
+
+.plakseventeen{
+    width: 15vw;
+    position: absolute;
+    left: 186vw;
+    bottom: 40vw;
+}
+
+.plakseventeen img{
+    width: 15vw;
+}
+
+.plakeightteen{
+    width: 15vw;
+    position: absolute;
+    left: 190vw;
+    bottom: 10vw;
+}
+
+.plakeightteen img{
+    width: 15vw;
+}
+
+.plaknineteen{
+    width: 15vw;
+    position: absolute;
+    left: 205vw;
+    bottom: 42vw;
+}
+
+.plaknineteen img{
+    width: 15vw;
+}
+
+.plaktenteen{
+    width: 15vw;
+    position: absolute;
+    left: 210vw;
+    bottom: 13vw;
+}
+
+.plaktenteen img{
+    width: 15vw;
+}
+
+.plakeleventeen{
+    width: 15vw;
+    position: absolute;
+    left: 230vw;
+    bottom: 7vw;
+}
+
+.plakeleventeen img{
+    width: 15vw;
+}
+
+/* блюр на фоне */
+.circle2{
+    background-color: #CCC8FF;
+    opacity: 38%;
+    overflow: hidden;
+    width:50vw;
+    height:80vw;
+    border-radius: 100px;
+    filter: blur(70px);
+    margin: -15px;
+    position: absolute;
+    z-index: 0;
+}
+
+.circletwo2{
+    background-color: #FFCFEC;
+    opacity: 22%;
+    overflow: hidden;
+    width:50vw;
+    height:50vw;
+    border-radius: 100px;
+    filter: blur(70px);
+    left: 50vw ;
+    position: absolute;
+    z-index: 0;
+}
+
+
+/* форма */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vw;
+    background-color: rgba(102, 102, 102, 0.133);
+}
+
+h2{
+    color: #E973CF;
+    font-size: 1.3vw;
+    font-weight: 500;
+}
+
+.modal-content {
+    background-color: #fefefe8b;
+    margin: 15% auto;
+    padding-top: 2vw;
+    padding-left: 2vw;
+    width: 43vw;
+    height: 31vw;
+}
+
+.close {
+    position: relative;
+    color: #e973d0c3;
+    float: right;
+    right: 1.5vw;
+    bottom: 1vw;
+    font-size: 3vw;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: #E973CF;
+}
+
+.input-container3 {
+    position: relative;
+    padding-top: 1.5vw;
+    right: 1.5vw;
+}
+
+.input-container3 input {
+    width: 100%;
+    padding: 10px;
+}
+
+.input-container3 input::placeholder {
+    color: #ADB1A9;
+    padding-left: 0.5vw;
+}
+
+.input-container3 input[type="name"] {
+    padding-left: 0.7vw; 
+}
+
+input[type="name"]{
+    position: relative;
+    width: 39vw;
+    height: 2.5vw;
+    border: none;
+    background: #DEF4CD;
+    outline: none;
+    font-family: 'Montserrat';
+    font-weight: 450;
+    left: 1.5vw;
+    font-size: 1.5vw;
+}
+
+/* второе окошко почта  */
+
+.input-container4 {
+    position: relative;
+    padding-top: 1.2vw;
+    right: 1.5vw;
+}
+
+.input-container4 input {
+    width: 100%;
+    padding: 10px;
+}
+
+.input-container4 input::placeholder {
+    color: #ADB1A9;
+    padding-left: 0.5vw;
+}
+
+.input-container4 input[type="mail"] {
+    padding-left: 0.7vw; 
+}
+
+input[type="mail"]{
+    position: relative;
+    width: 39vw;
+    height: 2.5vw;
+    border: none;
+    background: #DEF4CD;
+    outline: none;
+    font-family: 'Montserrat';
+    font-weight: 450;
+    left: 1.5vw;
+    font-size: 1.5vw;
+}
+
+/* телефон */
+.input-container5 {
+    position: relative;
+    padding-top: 1.2vw;
+    right: 1.5vw;
+}
+
+.input-container5 input {
+    width: 100%;
+    padding: 10px;
+}
+
+.input-container5 input::placeholder {
+    color: #ADB1A9;
+    padding-left: 0.5vw;
+}
+
+.input-container5 input[type="phone"] {
+    padding-left: 0.7vw; 
+}
+
+input[type="phone"]{
+    position: relative;
+    width: 39vw;
+    height: 2.5vw;
+    border: none;
+    background: #DEF4CD;
+    outline: none;
+    font-family: 'Montserrat';
+    font-weight: 450;
+    left: 1.5vw;
+    font-size: 1.5vw;
+}
+
+.sentabout{
+    position: relative;
+    top: 2.2vw;
+    width: 7vw;
+}
+
+/* по почте кнопка */
+
+#pochtaone{
+    position: relative;
+    width: 15.5vw;
+    height: 3vw;
+    border: none;
+    background: #DEF4CD;
+    font-weight: 450;
+    left: 8vw;
+    font-size: 1.5vw;
+    font-family: 'Montserrat';
+    color: #ADB1A9;
+    cursor: pointer;
+}
+
+#pochtaone:focus{
+    background: #fff7ac;
+}
+
+/* по смс кнопка */
+
+#smsone{
+    position: relative;
+    width: 15.5vw;
+    height: 3vw;
+    border: none;
+    background: #DEF4CD;
+    font-weight: 450;
+    left: 9.2vw;
+    font-size: 1.5vw;
+    font-family: 'Montserrat';
+    color: #ADB1A9;
+    cursor: pointer;
+}
+
+#smsone:focus{
+    background: #fff7ac;
+}
+
+/* оформление */
+#lastbutton{
+    position: relative;
+    width: 40.6vw;
+    height: 4vw;
+    border: none;
+    background: #DEF4CD;
+    font-weight: 450;
+    font-size: 1.5vw;
+    font-family: 'Montserrat';
+    color: #72AA46;
+    cursor: pointer;
+    top:1.2vw;
+}
+
+#lastbutton:hover{
+    background: #fff7ac;
+}
+
+/* подвал */
+
+.pinkcolor33{
+    color: #E973CF;
+}
+
+.newtext33{
+    position: relative;
+    width: 25vw;
+    left: 48vw;
+    top: 15.4vw;
+}
+
+.logobottom33{
+    position: relative;
+    width: 10vw;
+    left: 3vw;
+    top: 14vw;
+    padding-bottom: 3vw;
+}
+
+p{
+    color: #E973CF;
+    font-size: 1.2vw;
+    font-weight: 500;
+}
+
+#flobot33{
+    font-size: 2vw;
+    font-weight: 600;
+}
+
+.forever33{
+    width: 50vw;
+    position: relative;
+    display: flex;
+    justify-content: start;
+    top: 14vw;
+    padding-bottom: 2vw;
+    left: 3vw;
+}
+
+.boxgray33{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    right: 5vw;
+    top: 5.5vw;
+}
+
+input[type="email33"]{
+    position: relative;
+    width: 24vw;
+    height: 2vw;
+    border: none;
+    background: #E3E3E3;
+    outline: none;
+    left: 1.5vw;
+    font-size: 1.3vw;
+}
+
+
+.input-container33 input::placeholder {
+    color: #ADB1A9;
+    padding-left: 0.5vw;
+}
+
+.input-container33 input[type="email33"] {
+    padding-left: 0.7vw; 
+}
+
+
+.boxsent33{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    top: 0.3vw;
+    left: 2.5vw;
+}
+
+.sent33{
+    position: relative;
+    width: 1.5vw;
+    height: 1.5vw;
+    display: flex;
+}
+
+.email33{
+    width: 5vw;
+    position: relative;
+    display: flex;
+    justify-content: right;
+
+}
+ 
+

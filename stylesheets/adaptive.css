@@ -1,0 +1,2659 @@
+
+/* index.html */
+@media screen and (min-width: 415px) and (max-width: 768px) {
+    .circle{
+        width:25vw;
+        height:25vw;
+        border-radius: 10vw;
+        filter: blur(7vw);
+        top: 30vw;
+    }
+
+    .circletwo{
+        width:25vw;
+        height:25vw;
+        border-radius: 10vw;
+        filter: blur(7vw);
+        top: 30vw;
+    }
+
+    .circlethree{
+        width:25vw;
+        height:25vw;
+        border-radius: 10vw;
+        filter: blur(7vw);
+        bottom: 0;
+        top: 5vw;
+    }
+
+    .circleforth{
+        width:25vw;
+        height:25vw;
+        border-radius: 10vw;
+        filter: blur(7vw);
+        bottom: 10vw;
+        left: 50vw;
+    }
+
+    #logo{
+        font-size: 1.9vw;
+    }
+    
+    .pinkbuttons{
+        width: 7vw;
+        font-size: 1.5vw;
+    }
+    
+    .yellowbuttons{
+        width: 7vw;
+        font-size: 1.5vw;
+    }
+
+    .flotheater{
+        bottom: 60vw;
+    }
+
+    .floimg{
+        width:450vw;
+    }
+    
+    .flotheater img{
+        width:450vw;
+    }
+}
+
+@media screen and (max-width: 414px) {
+
+    body{
+        height: 247vw;
+        width: 100vw ;
+    }
+
+    header{
+        top: 5vw;
+        left: 5vw;
+    }
+
+    #abouttheater{
+        left: 3.5vw;
+    }
+
+    #threedtour{
+        left: 10vw;
+    }
+
+    #repertoire{
+        left: 8vw;
+    }
+
+    #magazine{
+        left: 1vw;
+    }
+
+    #shop{
+        left: 4.5vw;
+    }
+    
+    #aboutunusual{
+        left: 7vw;
+    }
+
+    #logo{
+        font-size: 2.9vw;
+    }
+    
+    .pinkbuttons{
+        width: 20vw;
+        font-size: 2.5vw;
+    }
+    
+    .yellowbuttons{
+        width: 20vw;
+        font-size: 2.5vw;
+    }
+
+    .flotheater{
+        bottom: 60vw;
+        height: 80vw;
+    }
+
+    .floimg{
+        width:900vw;
+    }
+    
+    .flotheater img{
+        width:900vw;
+    }
+
+    .circle{
+        width:30vw;
+        height:30vw;
+        border-radius: 10vw;
+        filter: blur(15vw);
+        top: 70vw;
+    }
+
+    .circletwo{
+        width:30vw;
+        height:30vw;
+        border-radius: 10vw;
+        filter: blur(15vw);
+        top: 70vw;
+    }
+
+    .circlethree{
+        width:30vw;
+        height:30vw;
+        border-radius: 10vw;
+        filter: blur(15vw);
+        bottom: 0;
+        top: 45vw;
+    }
+
+    .circleforth{
+        width:30vw;
+        height:30vw;
+        border-radius: 10vw;
+        filter: blur(15vw);
+        bottom: 50vw;
+        left: 50vw;
+    }
+}
+
+/* 404.html */
+@media screen and (min-width: 415px) and (max-width: 768px) {
+    .circle1{
+        width:20vw;
+        height:20vw;
+        filter: blur(5vw);
+        top: 20vw;
+    }
+    
+    .circletwo1{
+        width:20vw;
+        height:20vw;
+        filter: blur(5vw);
+        top: 20vw;
+    }
+
+    .circlethree1{
+        width:20vw;
+        height:20vw;
+        filter: blur(5vw);
+        top: 20vw;
+    }
+
+    .circleforth1{
+        width:20vw;
+        height:20vw;
+        filter: blur(5vw);
+        top: 20vw;
+    }
+
+    p{
+        font-size: 2.5vw;
+    }
+
+    .textcenter{
+        width: 40vw;
+        top: 10vw;
+    }
+    
+    .textcenter2{
+        width: 50vw;
+        top: 10vw;
+    }
+
+    .textlefttop{
+        width: 35vw;
+        bottom: 15vw;
+    }
+    
+    .textlefttop2{
+        width: 35vw;
+        bottom: 15vw;
+    }
+
+    .textleftbottom{
+        top: 40vw;
+    }
+    
+    .textleftbottom2{
+        top: 40vw;
+    }
+
+    .textrightbottom{
+        width: 40vw;
+        top: 40vw;
+    }
+    
+}
+
+
+@media screen and (max-width: 414px) {
+    p{
+        font-size: 3.5vw;
+    }
+
+    .circle1{
+        width:25vw;
+        height:25vw;
+        filter: blur(10vw);
+        top: 50vw;
+    }
+    
+    .circletwo1{
+        width:25vw;
+        height:25vw;
+        filter: blur(10vw);
+        top: 50vw;
+    }
+
+    .circlethree1{
+        width:25vw;
+        height:25vw;
+        filter: blur(10vw);
+        top: 50vw;
+    }
+
+    .circleforth1{
+        width:25vw;
+        height:25vw;
+        filter: blur(10vw);
+        top: 50vw;
+    }
+
+    .textcenter{
+        width: 40vw;
+        top: 30vw;
+        right: 20vw;
+    }
+    
+    .textcenter2{
+        width: 70vw;
+        top: 30vw;
+        left: 10vw;
+    }
+
+    .boxsecond{
+        justify-content: center;
+    }
+    
+    .boxsecond2{
+        justify-content: center;
+    }
+
+    .textlefttop{
+        width: 45vw;
+        bottom: 25vw;
+        left: 0;
+    }
+    
+    .textlefttop2{
+        width: 55vw;
+        bottom: 25vw;
+        left: 15vw;
+    }
+
+    .boxthird{
+        justify-content: center;
+    }
+    
+    .boxthird2{
+        justify-content: center;
+    }
+
+    .textleftbottom{
+        width: 35vw;
+        top: 70vw;
+        left: 5vw;
+    }
+    
+    .textleftbottom2{
+        width: 35vw;
+        top: 70vw;
+        left: 0vw;
+    }
+
+    .textrightbottom{
+        width: 55vw;
+        top: 120vw;
+        right: 10vw;
+    }
+}
+
+/* shop.html */
+@media screen and (min-width: 415px) and (max-width: 768px) {
+
+    header{
+        top: 5vw;
+        left: 5vw;
+    }
+
+    #logo{
+        font-size: 2.9vw;
+    }
+    
+    .pinkbuttons{
+        width: 20vw;
+        font-size: 2.5vw;
+    }
+    
+    .yellowbuttons{
+        width: 20vw;
+        font-size: 2.5vw;
+    }
+
+    #basketheader{
+        width: 6vw;
+        bottom: 17.8vw;
+        left: 95vw;
+    }
+
+    .baskimg{
+        width: 3vw;
+        bottom: 20.5vw;
+        left: 108vw;
+    }
+
+    p{
+        font-size: 2.5vw;
+    }
+
+    .imgshop img{
+        width: 55vw;
+    }
+
+    .one{
+        left: 9vw;
+        top: 20vw;
+    }
+
+    .two{
+        left: 57vw;
+        bottom: 0vw;
+        top: 17vw;
+    }
+
+    .three{
+        left: 9vw;
+        bottom: 0vw;
+        top: 17vw;
+    } 
+
+    .four{
+        left: 57vw;
+        bottom: 0vw;
+        top: 12vw;
+    }
+
+    .five{
+        bottom: 0vw;
+        top: 3vw;
+        left: 9vw;
+    }
+
+    .six{
+        bottom: 0vw;
+        top: 5vw;
+        left: 57vw;
+    }
+
+    .seven{
+        left: 9vw;
+        bottom: 0vw;
+        top: 7vw;
+    }
+
+    .eight{
+        bottom: 0vw;
+        top: 4vw;
+        left: 57vw;
+    }
+
+    .nine{
+        bottom: 2vw;
+        left: 10vw;
+    }
+    
+    .firsttext{
+        width: 45vw;
+        left: 75vw;
+        bottom: 5vw;
+    }
+
+    .secondtext{
+        width: 30vw;
+        left: 70vw;
+        bottom: 4.6vw;
+    }
+
+    .thirdtext{
+        width: 45vw;
+        left: 67vw;
+        bottom: 10vw;
+        line-height: 2.5vw;
+    }
+    
+    .thirdtexttwo{
+        width: 45vw;
+        left: 72vw;
+        bottom: 9.7vw;
+    }
+
+    .fourtext{
+        width: 50vw;
+        bottom: 18vw;
+        line-height: 2.5vw;
+    }
+    
+    .fourtexttwo{
+        width: 50vw;
+        left: 12vw;
+        bottom: 17.8vw;
+        line-height: 2.5vw;
+    }
+
+    .fivetext{
+        width: 50vw;
+        left: 69vw;
+        bottom:18vw;
+    }
+    
+    .fivetexttwo{
+        width: 20vw;
+        left: 88vw;
+        bottom: 17.6vw;
+    }
+
+    .sixtext{
+        width: 45vw;
+        left: 71vw;
+        bottom: 0vw;
+        top: 18vw;
+    }
+    
+    .sixtexttwo{
+        width: 40vw;
+        left: 68vw;
+        bottom: 0vw;
+        top: 18.5vw;
+    }
+
+    /* подписи краточек */
+
+    .gallery .imgshop{
+        width: 40vw;
+    }
+
+    .shopper {
+        bottom: 4vw;
+        left: 2vw;
+    }
+    
+    .palochki{
+        bottom: 4vw;
+        left: 2vw;
+    }
+    
+    .water{
+        bottom: 4vw;
+        left: 2vw;
+    }
+    
+    .pencils{
+        bottom: 4vw;
+        left: 2vw;
+    }
+    
+    .binokle{
+        bottom: 4vw;
+        left: 2vw;
+    }
+    
+    .braslet{
+        bottom: 4vw;
+        left: 2vw;
+    }
+    
+    .znachok{
+        bottom: 4vw;
+        left: 2vw;
+    }
+    
+    .pitdop{
+        bottom: 4vw;
+        left: 2vw;
+    }
+    
+    .brelok{
+        bottom: 4vw;
+        left: 2vw;
+    }
+
+    /* корзинки */
+
+    .basketone{
+        left: 58vw;
+        top: 13vw;
+    }
+
+    .basketone img{
+        width: 3vw;
+    }
+
+    .baskettwo{
+        left: 106vw;
+        bottom: 0vw;
+        top: 10vw;
+    }
+    
+    .baskettwo img{
+        width: 3vw;
+    }
+
+    .basketthree{
+        left: 58vw;
+        bottom: 0vw;
+        top: 10vw;
+    }
+    
+    .basketthree img{
+        width: 3vw;
+    }
+
+    .basketfour{
+        left: 106vw;
+        bottom: 0vw;
+        top: 5vw;
+    }
+    
+    .basketfour img{
+        width: 3vw;
+    }
+
+    .basketfive{
+        left: 58vw;
+        bottom: 4vw;
+    }
+    
+    .basketfive img{
+        width: 3vw;
+    }
+
+    .basketsix{
+        left: 106vw;
+        bottom: 2vw;
+    }
+
+    .basketsix img{
+        width: 3vw;
+    }
+
+    .basketseven{
+        left: 58vw;
+        bottom: 0vw;
+    }
+    
+    .basketseven img{
+        width: 3vw;
+    }
+
+    .basketeight{
+        left: 106vw;
+        bottom: 3vw;
+    }
+    
+    .basketeight img{
+        width: 3vw;
+    }
+
+    .basketnine{
+        left: 59vw;
+        bottom: 9vw;
+    }
+    
+    .basketnine img{
+        width: 3vw;
+    }
+    
+
+    /* подвал */
+
+    .newtext{
+        width: 45vw;
+        left: 73vw;
+        bottom: 0vw;
+        top: 22vw ;
+    }
+    
+    .logobottom{
+        width: 10vw;
+        left: 4vw;
+        bottom: 0vw;
+        top: 10vw;
+    }
+    
+    #flobot{
+        font-size: 3vw;
+    }
+    
+    .forever{
+        bottom: 0vw;
+        top: 13vw;
+        left: 4vw;
+    }
+    
+    .boxgray{
+        right: 6vw;
+        bottom: 1vw;
+    }
+    
+    input[type="email"]{
+        width: 37vw;
+        height: 3.5vw;
+        left: 21.5vw;
+        font-size: 2.5vw;
+    }   
+    
+    .input-container input::placeholder {
+        padding-left: 1vw;
+    }
+
+    .boxsent{
+        top: 0.5vw;
+        left: 22.5vw;
+    }
+    
+    .sent{
+        width: 2.5vw;
+        height: 2.5vw;
+    }
+        
+}
+
+@media screen and (min-width: 415px) and (max-width: 768px) {
+    p{
+        line-height: 2.5vw;
+    }
+
+    span{
+        font-size: 2vw;
+    }
+
+    .pictures{
+        top: 10vw;
+        width: 60vw;
+    }
+
+    /* подвал */
+
+    .newtext8{
+        width: 45vw;
+        left: 60vw;
+        bottom: 0vw;
+        top: 112vw ;
+    }
+    
+    .logobottom8{
+        width: 10vw;
+        left: 4vw;
+        bottom: 0vw;
+        top: 100vw;
+    }
+    
+    #flobot8{
+        font-size: 3vw;
+    }
+    
+    .forever8{
+        bottom: 0vw;
+        top: 103vw;
+        left: 4vw;
+    }
+    
+    .boxgray8{
+        right: 19vw;
+        bottom: 0vw;
+        top: 89vw;
+    }
+    
+    input[type="email8"]{
+        width: 37vw;
+        height: 3.5vw;
+        left: 21.5vw;
+        font-size: 2.5vw;
+    }   
+    
+    .input-container8 input::placeholder {
+        padding-left: 1vw;
+    }
+
+    .boxsent8{
+        top: 0.5vw;
+        left: 22.5vw;
+    }
+    
+    .sent8{
+        width: 2.5vw;
+        height: 2.5vw;
+    }
+
+    .pictures img{
+        width: 22vw;
+    }
+
+    /* texts */
+
+    .firstblock{
+        width: 95vw;
+        left: 8vw;
+    }
+
+    .secondblock{
+        width: 55vw;
+        right: 5vw;
+    }
+
+    .secondblocktwo{
+        width: 60vw;
+    }
+
+    .thirdblock{
+        width: 60vw;
+    }
+
+    .thirdblocktwo{
+        width: 50vw;
+    }
+
+    .thirdblockthree{
+        width: 40vw;
+    }
+
+    .thirdblockfour{
+        width: 40vw;
+    }
+
+    .fourthblock{
+        width: 55vw;
+    }
+
+    .fiveblock{
+        width: 55vw;
+    }
+
+    .sixblock{
+        width: 70vw;
+        left: 27vw;
+        top: 40vw;
+    } 
+
+    .longboxpictirethirteen{
+        top: 120vw;
+    }
+
+    .longboxpictirefourteen{
+        top: 120vw;
+    }
+
+    .boxpictirefourteen{
+        right: 25vw;
+    }
+
+    .longboxword{
+        top: 70vw;
+    }
+
+}
+
+@media screen and (max-width: 414px) {
+    .pinkbuttons{
+        width: 25vw;
+        font-size: 5vw;
+    }
+
+    #logo{
+        font-size: 5.9vw;
+    }
+    
+    .yellowbuttons{
+        width: 35vw;
+        font-size: 5vw;
+    }
+
+    header{
+        top: 7vw;
+        left: 7vw;
+    }
+
+    #basketheader{
+        bottom: 37vw;
+        left: 110vw;
+    }
+
+    .baskimg{
+        width: 6vw;
+        bottom: 42vw;
+        left: 134vw;
+    }
+
+    p{
+        font-size: 5vw;
+    }
+
+    .gallery{
+        position: relative;
+        height: auto;
+        left: 24vw;
+        top: 30vw;
+    }
+
+    .imgshop img{
+        width: 105vw;
+    }
+
+    .one{
+        left: 0vw;
+        top: 0vw;
+    }
+
+    .two{
+        left: 0vw;
+        bottom: 0vw;
+        top: 15vw;
+    }
+    
+    .three{
+        left: 0vw;
+        bottom: 0vw;
+        top: 42vw;
+    } 
+    
+    .four{
+        left: 0vw;
+        bottom: 0vw;
+        top: 52vw;
+    }
+    
+    .five{
+        bottom: 0vw;
+        left: 0vw;
+        top: 57vw;
+    }
+    
+    .six{
+        bottom: 0vw;
+        left: 0vw;
+        top: 83vw;
+    }
+    
+    .seven{
+        left: 0vw;
+        bottom: 0vw;
+        top: 123vw;
+    }
+    
+    .eight{
+        bottom: 0vw;
+        left: 0vw;
+        top: 145vw;
+    }
+    
+    .nine{
+        bottom: 0vw;
+        left: 0vw;
+        top: 185vw;
+    }
+
+    /* тексты */
+
+    .firsttext{
+        width: 95vw;
+        left: 19vw;
+        bottom: 0vw;
+        top: 3vw;
+    }
+
+    .secondtext{
+        width: 70vw;
+        left: 2vw;
+        bottom: 0vw;
+        top: 3.5vw;
+    }
+
+    .thirdtext{
+        width: 80vw;
+        left: 2vw;
+        bottom: 58vw;
+        line-height: 5.5vw;
+    }
+    
+    .thirdtexttwo{
+        width: 85vw;
+        left: 15vw;
+        bottom: 57vw;
+    }
+
+    .fourtext{
+        width: 75vw;
+        bottom: 0vw;
+        top: 49vw;
+        left: 0vw;
+        line-height: 5.5vw;
+    }
+    
+    .fourtexttwo{
+        width: 85vw;
+        left: 20vw;
+        bottom: 0vw;
+        top: 49.2vw;
+        line-height: 5.5vw;
+    }
+
+    .fivetext{
+        width: 95vw;
+        left: 1vw;
+        bottom: 0vw;
+        top: 20vw;
+    }
+    
+    .fivetexttwo{
+        width: 70vw;
+        left: 60vw;
+        bottom: 0vw;
+        top: 20.7vw;
+    }
+
+    .sixtext{
+        width: 90vw;
+        left: 21vw;
+        bottom: 0vw;
+        top: 160vw;
+    }
+    
+    .sixtexttwo{
+        width: 80vw;
+        left: 1vw;
+        bottom: 0vw;
+        top: 160.7vw;
+    }
+
+    /* корзиночки */
+
+    .basketone{
+        position: absolute;
+        left: 94vw;
+        top: 55vw;
+        width: 8.5vw;
+    }
+
+    .basketone img{
+        width: 7vw;
+    }
+
+    .baskettwo{
+        left: 94vw;
+        bottom: 0vw;
+        top: 0vw;
+    }
+    
+    .baskettwo img{
+        width: 7vw;
+    }
+
+    .basketthree{
+        left: 94vw;
+        bottom: 0vw;
+        top: 27vw;
+    }
+    
+    .basketthree img{
+        width: 7vw;
+    }
+
+    .basketfour{
+        left: 94vw;
+        bottom: 0vw;
+        top: 37vw;
+    }
+    
+    .basketfour img{
+        width: 7vw;
+    }
+
+    .basketfive{
+        left: 94vw;
+        bottom: 0vw;
+        top: 42vw;
+    }
+    
+    .basketfive img{
+        width: 7vw;
+    }
+
+    .basketsix{
+        left: 94vw;
+        bottom: 0vw;
+        top: 68vw;
+    }
+
+    .basketsix img{
+        width: 7vw;
+    }
+
+    .basketseven{
+        left: 94vw;
+        bottom: 0vw;
+        top: 107vw;
+    }
+    
+    .basketseven img{
+        width: 7vw;
+    }
+
+    .basketeight{
+        left: 94vw;
+        bottom: 0vw;
+        top: 130vw;
+    }
+    
+    .basketeight img{
+        width: 7vw;
+    }
+
+    .basketnine{
+        left: 94vw;
+        bottom: 0vw;
+        top: 170vw;
+    }
+    
+    .basketnine img{
+        width: 7vw;
+    }
+
+    /* подписи краточек */
+
+    .gallery .imgshop{
+        width: 70vw;
+    }
+
+    .shopper {
+        bottom: 8vw;
+        left: 4vw;
+    }
+    
+    .palochki{
+        bottom: 8vw;
+        left: 4vw;
+    }
+    
+    .water{
+        bottom: 8vw;
+        left: 4vw;
+    }
+    
+    .pencils{
+        bottom: 8vw;
+        left: 4vw;
+    }
+    
+    .binokle{
+        bottom: 8vw;
+        left: 4vw;
+    }
+    
+    .braslet{
+        bottom: 8vw;
+        left: 4vw;
+    }
+    
+    .znachok{
+        bottom: 8vw;
+        left: 4vw;
+    }
+    
+    .pitdop{
+        bottom: 8vw;
+        left: 4vw;
+    }
+    
+    .brelok{
+        bottom: 8vw;
+        left: 4vw;
+    }
+
+    /* подвал */
+
+    body{
+        height: auto;
+    }
+
+    .newtext{
+        width: 85vw;
+        left: 0vw;
+        right: 10vw;
+        bottom: 0vw;
+        top: 260vw ;
+    }
+    
+    .logobottom{
+        width: 10vw;
+        left: 0vw;
+        bottom: 0vw;
+        top: 220vw;
+    }
+    
+    #flobot{
+        font-size: 8vw;
+    }
+    
+    .forever{
+        bottom: 0vw;
+        top: 210vw;
+        left: 70vw;
+    }
+    
+    .boxgray{
+        right: 47vw;
+        bottom: 0vw;
+        top: 220vw;
+    }
+    
+    input[type="email"]{
+        width: 67vw;
+        height: 6.5vw;
+        left: 21.5vw;
+        font-size: 5vw;
+    }   
+    
+    .input-container input::placeholder {
+        padding-left: 3vw;
+    }
+
+    .boxsent{
+        top: 0.6vw;
+        left: 24.5vw;
+    }
+    
+    .sent{
+        width: 5.5vw;
+        height: 5.5vw;
+    }
+    
+}
+
+/* 3d.html */
+@media screen and (max-width: 414px) {
+
+    .pictures{
+        bottom: 0vw;
+        top: 40vw;
+    }
+
+    .pinkbuttons{
+        width: 25vw;
+        font-size: 5vw;
+    }
+
+    #logo{
+        font-size: 5.9vw;
+    }
+    
+    .yellowbuttons{
+        width: 35vw;
+        font-size: 5vw;
+    }
+
+    header{
+        top: 7vw;
+        left: 7vw;
+    }
+
+    #basketheader{
+        bottom: 37vw;
+        left: 110vw;
+    }
+
+    .baskimg{
+        width: 6vw;
+        bottom: 42vw;
+        left: 134vw;
+    }
+
+    p{
+        font-size: 2vw;
+        line-height: 5vw;
+    }
+
+    /* картинки */
+
+    .pictures{
+        height: auto;
+    }
+
+    .hoveri:hover{
+        transform: scale(1.5);
+        transition: 1.5s;
+    }
+
+    .boxpictireone img{
+        width: 60vw;
+    }
+
+    .boxpictireone{
+        right: 20vw;
+    }
+    
+    .boxpictiretwo img{
+        width: 60vw;
+    }
+
+    .boxpictiretwo{
+        right: 50vw;
+    }
+
+    .longboxpictiretwo{
+        top: 30vw;
+    }
+
+    .boxpictirethree img{
+        width: 60vw;
+    }
+
+    .longboxpictirethree{
+        top: 75vw;
+    }
+
+    .boxpictirefour img{
+        width: 60vw;
+    }
+
+    .boxpictirefour{
+        left: 0vw;
+        width: 35vw;
+    }
+
+    .longboxpictirefour{
+        top: 150vw;
+    }
+
+    .boxpictirefive img{
+        width: 60vw;
+    }
+
+    .longboxpictirefive{
+        top: 190vw;
+    }
+
+    .longboxpictiresix{
+        top: 195vw;
+    }
+
+    .boxpictiresix img{
+        width: 60vw;
+    }
+
+    .longboxpictireseven{
+        top: 245vw;
+    }
+
+    .boxpictireseven{
+        right: 65vw;
+    }
+
+    .boxpictireseven img{
+        width: 60vw;
+    }
+
+    .longboxpictireeight{
+        top: 280vw;
+    }
+
+    .boxpictireeight{
+        right: 15vw;
+    }
+
+    .boxpictireeight img{
+        width: 60vw;
+    }
+
+    .boxpictirenine img{
+        width: 60vw;
+    }
+
+    .boxpictirenine{
+        width: 35vw;
+        left: 0vw;
+    }
+
+    .longboxpictirenine{
+        top: 305vw;
+    }
+
+    .boxpictireten img{
+        width: 60vw;
+    }
+
+    .longboxpictireten{
+        top: 370vw;
+    }
+
+    .boxpictireeleven img{
+        width: 60vw;
+    }
+
+    .boxpictireeleven{
+        right: 50vw;
+    }
+
+    .longboxpictireeleven{
+        top: 390vw;
+    }
+
+    .boxpictiretwelve img{
+        width: 60vw;
+    }
+
+    .longboxpictiretwelve{
+        top: 435vw;
+    }
+
+    .boxpictirethirteen img{
+        width: 60vw;
+    }
+
+    .boxpictirethirteen{
+        left: 0vw;
+        width: 35vw;
+    }
+
+    .longboxpictirethirteen{
+        top: 490vw;
+    }
+
+    .boxpictirefourteen img{
+        width: 60vw;
+    }
+
+    .longboxpictirefourteen{
+        top: 570vw;
+    }
+
+    /* тексты */
+
+    .firstblock{
+        width: 95vw;
+        right: 0vw;
+        left: 15vw;
+        top: 75vw;
+    }
+
+    .secondblock{
+        width: 100vw;
+        left: 10vw;
+    }
+
+    .secondblocktwo{
+        width: 70vw;
+        left:25vw;
+    }
+
+    .thirdblock{
+        width: 90vw;
+        left: 10vw;
+        top: 170vw;
+    }
+
+    .thirdblocktwo{
+        width: 80vw;
+        top: 170vw;
+        left: 15vw;
+    }
+
+    .thirdblockthree{
+        width: 70vw;
+        left: 20vw;
+        top: 170vw;
+    }
+
+    .thirdblockfour{
+        width: 70vw;
+        left:25vw;
+        top: 170vw;
+    }
+
+    .fourthblock{
+        width: 95vw;
+        left: 15vw;
+        top: 230vw;
+    }
+
+    .fiveblock{
+        width: 85vw;
+        left: 5vw;
+        top: 330vw;
+    }
+
+    .sixblock{
+        width: 80vw;
+        left: 10vw;
+        top: 395vw;
+    }
+
+    /* подвал */
+
+    .newtext8{
+        width: 85vw;
+        left: 0vw;
+        right: 5vw;
+        bottom: 0vw;
+        top: 660vw ;
+        padding-bottom: 7vw;
+    }
+    
+    .logobottom8{
+        width: 10vw;
+        left: 0vw;
+        bottom: 0vw;
+        top: 620vw;
+    }
+    
+    #flobot8{
+        font-size: 8vw;
+    }
+    
+    .forever8{
+        bottom: 0vw;
+        top: 610vw;
+        left: 70vw;
+    }
+    
+    .boxgray8{
+        right: 20vw;
+        bottom: 0vw;
+        top: 620vw;
+    }
+    
+    input[type="email8"]{
+        width: 67vw;
+        height: 6.5vw;
+        font-size: 5vw;
+    }   
+    
+    .input-container8 input::placeholder {
+        padding-left: 3vw;
+    }
+
+    .boxsent8{
+        top: 0.6vw;
+        left: 24.5vw;
+    }
+    
+    .sent8{
+        width: 5.5vw;
+        height: 5.5vw;
+    }
+    
+}
+
+/* about.html */
+@media screen and (max-width: 414px) {
+    body{
+        height: auto;
+    }
+
+    .photo{
+        left: 0vw;
+        bottom: 95vw;
+    }
+
+    .textleftone{
+        width: 45vw;
+        left: 4.5vw;
+        top: 115vw;
+    }
+
+    .textlefttwo{
+        width: 45vw;
+        left: 7vw;
+        top: 115vw;
+    }
+
+    .textrightone{
+        width: 94vw;
+        left: 1.5vw;
+        top: 65vw;
+    }
+    
+    .textrighttwo{
+        width: 94vw;
+        left: 2.5vw;
+        top: 65vw;
+    }
+    
+    .textrightthree{
+        width: 94vw;
+        left: 1.5vw;
+        top: 65vw;
+    }
+
+    .bigboxactors{
+        bottom: 50vw;
+    }
+
+    .firstactorleft{
+        bottom: 35vw;
+    }
+
+    .boxactors{
+        flex-direction: column;
+    }
+
+    .firstactorleft img{
+        width: 85vw;
+    }
+    
+    .secondactorleft img{
+        width: 85vw;
+    }
+
+    .phosize img{   
+        width: 100vw;
+    }
+
+    .artistsnames{
+        width: 80vw;
+        top: 85vw;
+    }
+
+
+    .bigboxblur{
+        height: auto;
+        top: 100vw;
+    }
+
+    .boxblur{
+        flex-direction: column;
+    }
+    
+    .blurfloone{
+        position: relative;
+        width:52vw;
+        height:105vw;
+        left: 15vw;
+        margin: -15px;
+    }
+    
+    .blurflotwo{
+        width:52vw;
+        right: 0vw;
+        left: 15vw;
+        top: 30vw;
+        height:105vw;
+    }
+    .vidos{
+        top: 5vw;
+    }
+
+    /* подвал */
+
+    p{
+        font-size: 3vw;
+    }
+
+    .newtext7{
+        width: 75vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 75vw;
+        padding-bottom: 7vw;
+    }
+    
+    .logobottom7{
+        width: 10vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 37vw;
+    }
+    
+    #flobot7{
+        font-size: 6vw;
+    }
+    
+    .forever7{
+        bottom: 0vw;
+        top: 29vw;
+        left: 55vw;
+        width: 40vw;
+    }
+    
+    .boxgray7{
+        right: 47vw;
+        bottom: 0vw;
+        top: 35vw;
+    }
+    
+    input[type="email7"]{
+        width: 57vw;
+        height: 6.5vw;
+        left: 15.5vw;
+        font-size: 5vw;
+    }   
+    
+    .input-container7 input::placeholder {
+        padding-left: 3vw;
+    }
+
+    .boxsent7{
+        top: 0.6vw;
+        left: 18.5vw;
+    }
+    
+    .sent7{
+        width: 5.5vw;
+        height: 5.5vw;
+    }
+}
+
+@media screen and (min-width: 415px) and (max-width: 768px) {
+    .photo{
+        left: 0vw;
+        bottom: 40vw;
+    }
+
+    .bigboxactors{
+        bottom: 0vw;
+        top: 70vw;
+    }
+
+    .phosize img{   
+        width: 100vw;
+    }
+
+    .artistsnames{
+        top: 100vw;
+    }
+
+    .bigboxblur{
+        top: 110vw;
+    }
+
+    .textleftone{
+        width: 30vw;
+        left: 3.5vw;
+        top: 105vw;
+        line-height: 1.1vw;
+    }
+
+    .textlefttwo{
+        width: 30vw;
+        left: 3.5vw;
+        top: 105vw;
+        line-height: 1.1vw;
+    }
+
+
+    .textrightone{
+        width: 94vw;
+        left: 1.5vw;
+        top: 75vw;
+        line-height: 1.1vw;
+    }
+
+    .textrighttwo{
+        width: 94vw;
+        left: 2.5vw;
+        top:75vw;
+        line-height: 1.1vw;
+    }
+
+    .textrightthree{
+        width: 94vw;
+        left: 1.5vw;
+        top: 75vw;
+        line-height: 1.1vw;
+    }
+
+    .vidos{
+        top: 85vw;
+    }
+
+    /* подвал */
+
+    .newtext7{
+        width: 75vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 115vw;
+        padding-bottom: 7vw;
+    }
+    
+    .logobottom7{
+        width: 10vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 87vw;
+    }
+    
+    #flobot7{
+        font-size: 4vw;
+    }
+    
+    .forever7{
+        bottom: 0vw;
+        top: 82vw;
+        left: 72vw;
+        width: 25vw;
+    }
+    
+    .boxgray7{
+        right: 59vw;
+        bottom: 0vw;
+        top: 85vw;
+    }
+    
+    input[type="email7"]{
+        width: 47vw;
+        height: 5.5vw;
+        left: 15.5vw;
+        font-size: 4vw;
+    }   
+    
+    .input-container7 input::placeholder {
+        padding-left: 3vw;
+    }
+
+    .boxsent7{
+        top: 0.7vw;
+        left: 17.5vw;
+    }
+    
+    .sent7{
+        width: 3.5vw;
+        height: 3.5vw;
+    }
+}
+
+/* book.html */
+
+@media screen and (min-width: 415px) and (max-width: 768px) {
+
+    body{
+        height: auto;
+    }
+
+    header{
+        z-index: 10;
+    }
+
+    /* подвал */
+
+    .newtext2{
+        width: 50vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 120vw;
+    }
+    
+    .logobottom2{
+        width: 10vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 100vw;
+    }
+
+    .lists{
+        top: 30vw;
+    }
+
+    .lists img{
+        width: 80vw;
+    }
+
+    .twolist{
+        position: absolute;
+        left: 18vw;
+        top: 10vw;
+    }
+
+    .threelist{
+        position: absolute;
+        left: 13vw;
+        top: 20vw;
+    }
+
+    .fourlist{
+        position: absolute;
+        left: 3vw;
+        top: 0vw;
+    }
+
+    .fivelist{
+        position: absolute;
+        left: 10vw;
+        top: 10vw;
+    }
+
+    .sixlist{
+        position: absolute;
+        left: 7vw;
+        top: 10vw;
+    }
+
+    .sevenlist{
+        position: absolute;
+        left: 15vw;
+        top: 25vw;
+    }
+
+    .eightlist{
+        position: absolute;
+        left: 10vw;
+        top: 15vw;
+    }
+
+    .ninelist{
+        position: absolute;
+        left: 15vw;
+        top: 0vw;
+    }
+
+    .tenlist{
+        position: absolute;
+        left: 15vw;
+        top: 0vw;
+    }
+
+    .elevenlist{
+        position: absolute;
+        left: 10vw;
+        top: 10vw;
+    }
+
+    .twelvelist{
+        position: absolute;
+        left: 10vw;
+        top: 20vw;
+    }
+
+    .thirteenlist{
+        position: absolute;
+        left: 12vw;
+        top: 15vw;
+    }
+
+    .fourteenlist{
+        position: absolute;
+        left: 5vw;
+        top: 0vw;
+    }
+
+    .fiveteenlist{
+        position: absolute;
+        left: 10vw;
+        top: 10vw;
+    }
+
+    .sixteenlist{
+        position: absolute;
+        left: 15vw;
+        top: 20vw;
+    }
+
+    .seventeenlist{
+        position: absolute;
+        left: 18vw;
+        top: 0vw;
+    }
+
+    .eightteenlist{
+        position: absolute;
+        left: 5vw;
+        top: 0vw;
+    }
+
+    .nineteenlist{
+        position: absolute;
+        left: 10vw;
+        top: 25vw;
+    }
+
+    .tenteenlist{
+        position: absolute;
+        left: 15vw;
+        top: 10vw;
+    }
+
+    .eleventeenlist{
+        position: absolute;
+        left: 10vw;
+        top: 12vw;
+    }
+    
+    #flobot2{
+        font-size: 3.5vw;
+    }
+    
+    .forever2{
+        bottom: 0vw;
+        top: 95vw;
+        left: 72vw;
+        width: 25vw;
+    }
+    
+    .boxgray2{
+        right: 59vw;
+        bottom: 0vw;
+        top: 97vw;
+    }
+    
+    input[type="email2"]{
+        width: 47vw;
+        height: 5.5vw;
+        left: 15.5vw;
+        font-size: 4vw;
+    }   
+    
+    .input-container2 input::placeholder {
+        padding-left: 3vw;
+    }
+
+    .boxsent2{
+        top: 0.7vw;
+        left: 17.5vw;
+    }
+    
+    .sent2{
+        width: 3.5vw;
+        height: 3.5vw;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    header{
+        z-index: 10vw;
+    }
+
+    p{
+        font-size: 3vw
+    }
+
+    .pinkbuttons{
+        font-size: 4vw;
+    }
+
+    #logo{
+        font-size: 4.5vw;
+    }
+    
+    .yellowbuttons{
+        font-size: 4vw;
+    }
+
+    .modal{
+        height: 187vw;
+    }
+
+    .lists{
+        top: 15vw;
+    }
+
+    .lists img{
+        width: 80vw;
+    }
+
+    .twolist{
+        position: absolute;
+        width: 50vw;
+        left: 10vw;;
+        top: 10vw;
+    }
+
+    .threelist{
+        position: absolute;
+        left: 15vw;
+        top: 5vw;
+    }
+
+    .fourlist{
+        position: absolute;
+        left: 5vw;
+        top: 15vw;
+    }
+
+    .fivelist{
+        position: absolute;
+        left: 10vw;
+        top: 8vw;
+    }
+
+    .sixlist{
+        position: absolute;
+        left: 15vw;
+        top: 10vw;
+    }
+
+    .sevenlist{
+        position: absolute;
+        left: 8vw;
+        top: 20vw;
+    }
+
+    .eightlist{
+        position: absolute;
+        left: 10vw;
+        top: 93vw;
+    }
+
+    .ninelist{
+        position: absolute;
+        left: 15vw;
+        top: 97vw;
+    }
+
+    .tenlist{
+        position: absolute;
+        left: 7vw;
+        top:100vw;
+    }
+
+    .elevenlist{
+        position: absolute;
+        left: 10vw;
+        top: 93vw;
+    }
+
+    .twelvelist{
+        position: absolute;
+        left: 15vw;
+        top: 90vw;
+    }
+
+    .thirteenlist{
+        position: absolute;
+        left: 8vw;
+        top: 95vw;
+    }
+
+    .fourteenlist{
+        position: absolute;
+        left: 15vw;
+        top: 93vw;
+    }
+
+    .fiveteenlist{
+        position: absolute;
+        left: 10vw;
+        top: 175vw;
+    }
+
+    .sixteenlist{
+        position: absolute;
+        left: 15vw;
+        top: 170vw;
+    }
+
+    .seventeenlist{
+        position: absolute;
+        left: 7vw;
+        top: 180vw;
+    }
+
+    .eightteenlist{
+        position: absolute;
+        left: 10vw;
+        top: 175vw;
+    }
+
+    .nineteenlist{
+        position: absolute;
+        left: 15vw;
+        top: 173vw;
+    }
+
+    .tenteenlist{
+        position: absolute;
+        left: 6vw;
+        top: 170vw;
+    }
+
+    .eleventeenlist{
+        position: absolute;
+        left: 10vw;
+        top: 175vw;
+    }
+
+
+    /* подвал */
+
+    p{
+        font-size: 4vw;
+    }
+
+    .newtext2{
+        width: 75vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 255vw;
+        padding-bottom: 7vw;
+    }
+    
+    .logobottom2{
+        width: 10vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 221vw;
+    }
+    
+    #flobot2{
+        font-size: 5vw;
+    }
+    
+    .forever2{
+        bottom: 0vw;
+        top: 213vw;
+        left: 55vw;
+        width: 40vw;
+    }
+    
+    .boxgray2{
+        right: 57vw;
+        bottom: 0vw;
+        top: 218vw;
+    }
+    
+    input[type="email2"]{
+        width: 47vw;
+        height: 5.5vw;
+        left: 15.5vw;
+        font-size: 4vw;
+    }   
+    
+    .input-container2 input::placeholder {
+        padding-left: 3vw;
+    }
+
+    .boxsent2{
+        top: 0.6vw;
+        left: 18.5vw;
+    }
+    
+    .sent2{
+        width: 4.5vw;
+        height: 4.5vw;
+    }
+}
+
+/* afisha.html */
+
+@media screen and (min-width: 415px) and (max-width: 768px) {
+    p{
+        font-size: 3vw;
+    }
+
+    #afisha{
+        width: 25vw;
+        left: 70vw;
+        bottom: 13vw;
+    }
+
+    .modal {
+        background-color: #71aa4600;
+    }
+    
+
+    #lastbutton{
+        position: relative;
+        width: 40.6vw;
+        height: 3vw;
+        font-weight: 450;
+        font-size: 1.5vw;
+        font-family: 'Montserrat';
+        color: #72AA46;
+        cursor: pointer;
+        top:1.2vw;
+    }
+
+    .modal-content {
+        background-color: #fefefe8b;
+        margin: 60% auto;
+        padding-top: 2vw;
+        padding-left: 2vw;
+        width: 43vw;
+        height: 33vw;
+    }
+
+    .boxposters{
+        width: 100vw;
+        height: 120vw;
+        top: 13vw;
+        animation: moveposters 10s linear infinite; 
+    }
+
+    @keyframes moveposters{
+        from{ text-indent: 70%;}
+        to{ text-indent: -2350%;}
+    }
+
+    .clicker img{
+        width: 27vw;
+    }
+
+    .plaktwo{
+        top: 12vw;
+    }
+
+    .plakthree{
+        left: 37vw;
+    }
+
+    .plakfour{
+        left: 45vw;
+        bottom: 20vw;
+    }
+
+    .plakfive{
+        left: 80vw;
+        top: 65vw;
+    }
+
+    .plaksix{
+        left: 80vw;
+        bottom: 64vw;
+    }
+
+    .plakseven{
+        left: 155vw;
+        top: 35vw;
+    }
+
+    .plakeight{
+        left: 120vw;
+        bottom: 53vw;
+    }
+
+    .plaknine{
+        left: 136vw;
+        top: 80vw;
+    }
+
+    .plakten{
+        left: 190vw;
+        bottom: 54vw;
+    }
+
+    .plakeleven{
+        left: 205vw;
+        bottom: 5vw;
+    }
+
+    .plaktwelve{
+        left: 224vw;
+        bottom: 50vw;
+    }
+
+    .plakthirteen{
+        left: 257vw;
+        bottom: 5vw;
+    }
+
+    .plakfourteen{
+        left: 264vw;
+        bottom: 55vw; 
+    }
+    
+
+    .plakfiveteen{
+        left: 300vw;
+        bottom: 5vw;
+    }
+    
+
+    .plaksixteen{
+        left: 338vw;
+        bottom: 57vw;
+    }
+
+    .plakseventeen{
+        left: 300vw;
+        bottom: 55vw;
+    }
+
+    .plakeightteen{
+        left: 340vw;
+        bottom: 7vw;
+    }
+
+    .plaknineteen{
+        left: 375vw;
+        bottom: 55vw;
+    }
+
+    .plaktenteen{
+        left: 380vw;
+        bottom: 3vw;
+    }
+
+    .plakeleventeen{
+        left: 420vw;
+        bottom: 7vw;
+    }
+
+    /* подвал */
+
+    .newtext33{
+        width: 95vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 40vw;
+    }
+    
+    .logobottom33{
+        width: 10vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 20vw;
+    }
+    
+    #flobot33{
+        font-size: 4vw;
+    }
+    
+    .forever33{
+        bottom: 0vw;
+        top: 14vw;
+        left: 68vw;
+        width: 30vw;
+    }
+    
+    .boxgray33{
+        right: 59vw;
+        bottom: 0vw;
+        top: 17vw;
+    }
+    
+    input[type="email33"]{
+        width: 47vw;
+        height: 5.5vw;
+        left: 15.5vw;
+        font-size: 4vw;
+    }   
+    
+    .input-container33 input::placeholder {
+        padding-left: 3vw;
+    }
+
+    .boxsent33{
+        top: 0.7vw;
+        left: 17.5vw;
+    }
+    
+    .sent33{
+        width: 3.5vw;
+        height: 3.5vw;
+    }
+}
+
+@media screen and (max-width: 414px) {
+
+    #afisha{
+        width: 35vw;
+        left: 60vw;
+        bottom: 19vw;
+    }
+
+    .pinkbuttons{
+        font-size: 3.5vw;
+    }
+
+    #logo{
+        font-size: 4vw;
+    }
+    
+    .yellowbuttons{
+        font-size: 3.5vw;
+    }
+
+    p{
+        font-size: 3.5vw;
+    };
+
+    
+    h2{
+        font-size: 3vw;
+    }
+
+    input[type="name"]{
+        width: 57vw;
+        height: 2.5vw;
+        font-weight: 450;
+        left: 1.5vw;
+        font-size: 2.5vw;
+    }
+
+    input[type="mail"]{
+        width: 57vw;
+        height: 2.5vw;
+        left: 1.5vw;
+        font-size: 2.5vw;
+    }
+
+    input[type="phone"]{
+        width: 57vw;
+        height: 2.5vw;
+        left: 1.5vw;
+        font-size: 2.5vw;
+    }
+
+    #pochtaone{
+        width: 20.5vw;
+        height: 5vw;
+        left: 17vw;
+        font-size: 2.5vw;
+    }
+
+    #smsone{
+        width: 20.5vw;
+        height: 5vw;
+        left: 18.2vw;
+        font-size: 2.5vw;
+    }
+
+    .sentabout{
+        top: 3.7vw;
+    }
+
+    #lastbutton{
+        width: 60vw;
+        height: 5vw;
+        font-size: 2.5vw;
+    }
+    
+    
+    
+    .modal-content {
+        margin: 85% auto;
+        padding-top: 2vw;
+        padding-left: 2vw;
+        width: 63vw;
+        height: 51vw;
+    }
+
+    .modal{
+        height: 346vw;
+    }
+
+    .boxposters{
+        height: 250vw;
+        top: 16vw;
+        animation: moveposters 10s linear infinite; 
+    }
+
+    .clicker img{
+        width: 45vw;
+    }
+
+    @keyframes moveposters{
+        from{ text-indent: 70%;}
+        to{ text-indent: -4500%;}
+    }
+
+    .plaktwo{
+        top: 32vw;
+    }
+
+    .plakthree{
+        left: 60vw;
+        top: 40vw;
+    }
+
+    .plakfour{
+        left: 58vw;
+        bottom: 20vw;
+    }
+
+    .plakfive{
+        left: 125vw;
+        top: 50vw;
+    }
+
+    .plaksix{
+        left: 120vw;
+        bottom: 50vw;
+    }
+
+    .plakseven{
+        left: 195vw;
+        top: 25vw;
+    }
+
+    .plakeight{
+        left: 190vw;
+        bottom: 53vw;
+    }
+
+    .plaknine{
+        left: 250vw;
+        top: 80vw;
+    }
+
+    .plakten{
+        left: 310vw;
+        bottom: 84vw;
+    }
+
+    .plakeleven{
+        left: 305vw;
+        bottom: 5vw;
+    }
+
+    .plaktwelve{
+        left: 374vw;
+        bottom: 70vw;
+    }
+
+    .plakthirteen{
+        left: 627vw;
+        bottom: 5vw;
+    }
+
+    .plakfourteen{
+        left: 574vw;
+        bottom: 5vw; 
+    }
+
+
+    .plakfiveteen{
+        left: 565vw;
+        bottom: 80vw;
+    }
+    
+    .plaksixteen{
+        left: 470vw;
+        bottom: 90vw;
+    }
+
+    .plakseventeen{
+        left: 430vw;
+        bottom: 15vw;
+    }
+
+    .plakeightteen{
+        left: 510vw;
+        bottom: 15vw;
+    }
+
+
+
+    .plaknineteen{
+        left: 695vw;
+        bottom: 85vw;
+        /* pogrugp */
+    }
+
+    .plaktenteen{
+        left: 625vw;
+        bottom: 90vw;
+    }
+
+    .plakeleventeen{
+        left: 720vw;
+        bottom: 7vw;
+    }
+
+
+    /* подвал */
+
+    .newtext33{
+        width: 75vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 55vw;
+    }
+    
+    .logobottom33{
+        width: 10vw;
+        left: 5vw;
+        bottom: 0vw;
+        top: 30vw;
+    }
+    
+    #flobot33{
+        font-size: 4vw;
+    }
+    
+    .forever33{
+        bottom: 0vw;
+        top: 22vw;
+        left: 60vw;
+        width: 35vw;
+    }
+    
+    .boxgray33{
+        right: 59vw;
+        bottom: 0vw;
+        top: 25vw;
+    }
+    
+    input[type="email33"]{
+        width: 47vw;
+        height: 5.5vw;
+        left: 15.5vw;
+        font-size: 4vw;
+    }   
+    
+    .input-container33 input::placeholder {
+        padding-left: 3vw;
+    }
+
+    .boxsent33{
+        top: 0.7vw;
+        left: 17.5vw;
+    }
+    
+    .sent33{
+        width: 3.5vw;
+        height: 3.5vw;
+    }
+}

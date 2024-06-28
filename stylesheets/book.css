@@ -1,0 +1,535 @@
+body{
+    background-color: #D0D0D0;
+    height:60vw;
+    width: auto;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+}
+
+:root{
+    font-family: 'Montserrat';
+}
+
+.cursorball{
+    position: fixed;
+    width: 5vw;
+    height: 5vw;
+    border-radius: 50vw;
+    background: radial-gradient(#D8FFB9, #FFADEB);
+    filter: blur(10px);
+    z-index: 10;
+}
+
+#logo{
+    width: 5vw;
+    color: #E973CF;
+    font-weight: 550;
+    font-size: 1.4vw;
+}
+
+#logo:hover{
+    color: #FFF282;
+}
+
+.pinkbuttons{
+    width: 5vw;
+    color: #E973CF;
+    font-size: 1vw;
+}
+
+.yellowbuttons{
+    color: #FFF282;
+    font-size: 1vw;
+}
+
+/* шапка */
+
+header{
+    position: relative;
+    top: 1.5vw;
+    left: 1.5vw;
+    width: 10vw;
+    cursor: pointer;
+}
+
+#abouttheater:hover{
+    color: #D8FFB9;
+}
+
+#abouttheater{
+    position: relative;
+    top: 0.5vw;
+    left: 1.5vw;
+}
+
+#threedtour:hover{
+    color: #D8FFB9;
+}
+
+#threedtour{
+    position: relative;
+    top: 1vw;
+    left: 4vw;
+}
+
+#repertoire:hover{
+    color: #D8FFB9;
+}
+
+#repertoire{
+    position: relative;
+    top: 1.5vw;
+    left: 3vw;
+}
+
+#magazine:hover{
+    color: #D8FFB9;
+}
+
+#magazine{
+    position: relative;
+    top: 2vw;
+    left: 1vw;
+    z-index: 2;
+}
+
+#shop:hover{
+    color: #D8FFB9;
+}
+
+#shop{
+    position: relative;
+    top: 2.5vw;
+    left: 2.5vw;
+    z-index: 2;
+}
+
+#aboutunusual:hover{
+    color: #D8FFB9;
+}
+
+#aboutunusual{
+    position: relative;
+    top: 3vw;
+    left: 3.5vw;
+    z-index: 2;
+}
+
+/* блюр на фоне */
+.circlefirst{
+    background-color: #D8FFB9;
+    opacity: 15%;
+    overflow: hidden;
+    width:50vw;
+    height:50vw;
+    top: 10vw;
+    border-radius: 100px;
+    filter: blur(70px);
+    margin: -15px;
+    position: absolute;
+    z-index: 0;
+}
+
+.circletwosecond{
+    background-color: #FFCFEC;
+    opacity: 22%;
+    overflow: hidden;
+    width:50vw;
+    height:50vw;
+    border-radius: 100px;
+    filter: blur(70px);
+    left: 50vw;
+    position: absolute;
+    z-index: 0;
+}
+
+
+/* слайдер */
+
+
+.lists{
+    position: relative;
+    width: 100vw;
+    height: 35vw;
+}
+
+.lists img{
+    cursor: crosshair;
+}
+
+.onelist img{
+    width: 50vw;
+}
+
+.onelist{
+    z-index: 0;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 8vw;
+}
+
+.twolist img{
+    width: 50vw;
+}
+
+.twolist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 1;
+    bottom: 30vw;
+    left: 22vw;
+}
+
+.threelist img{
+    width: 50vw;
+}
+
+.threelist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 67vw;
+    left: 27vw;
+}
+
+.fourlist img{
+    width: 50vw;
+}
+
+.fourlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 100vw;
+    left: 20vw;
+}
+
+.fivelist img{
+    width: 50vw;
+}
+
+.fivelist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 136vw;
+    left: 25vw;
+}
+
+.sixlist img{
+    width: 50vw;
+}
+
+.sixlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 174vw;
+    left: 27vw;
+}
+
+.sevenlist img{
+    width: 50vw;
+}
+
+.sevenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 208vw;
+    left: 25vw;
+}
+
+.eightlist img{
+    width: 50vw;
+}
+
+.eightlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 243vw;
+    left: 20vw;
+}
+
+.ninelist img{
+    width: 50vw;
+}
+
+.ninelist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 280vw;
+    left: 29vw;
+}
+
+.tenlist img{
+    width: 50vw;
+}
+
+.tenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 315vw;
+    left: 25vw;
+}
+
+.elevenlist img{
+    width: 50vw;
+}
+
+.elevenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 353vw;
+    left: 20vw;
+}
+
+.twelvelist img{
+    width: 50vw;
+}
+
+.twelvelist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 390vw;
+    left: 29vw;
+}
+
+.thirteenlist img{
+    width: 50vw;
+}
+
+.thirteenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 422vw;
+    left: 22vw;
+}
+
+.fourteenlist img{
+    width: 50vw;
+}
+
+.fourteenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 458vw;
+    left: 25vw;
+}
+
+.fiveteenlist img{
+    width: 50vw;
+}
+
+.fiveteenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 495vw;
+    left: 20vw;
+}
+
+.sixteenlist img{
+    width: 50vw;
+}
+
+.sixteenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 529vw;
+    left: 29vw;
+}
+
+.seventeenlist img{
+    width: 50vw;
+}
+
+.seventeenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 564vw;
+    left: 20vw;
+}
+
+.eightteenlist img{
+    width: 50vw;
+}
+
+.eightteenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 598vw;
+    left: 25vw;
+}
+
+.nineteenlist img{
+    width: 50vw;
+}
+
+.nineteenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 634vw;
+    left: 27vw;
+}
+
+.tenteenlist img{
+    width: 50vw;
+}
+
+.tenteenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 674vw;
+    left: 20vw;
+}
+
+.eleventeenlist img{
+    width: 50vw;
+}
+
+a{
+    text-decoration: none;
+}
+
+.eleventeenlist{
+    width: 50vw;
+    position: relative;
+    display: none;
+    z-index: 3;
+    bottom: 705vw;
+    left: 27vw;
+}
+
+/* подвал */
+
+p{
+    color: #E973CF;
+    font-size: 1.2vw;
+    font-weight: 500;
+}
+
+.pinkcolor2{
+    color: #E973CF;
+}
+
+.newtext2{
+    position: relative;
+    width: 25vw;
+    left: 48vw;
+    top: 15.4vw;
+}
+
+.logobottom2{
+    position: relative;
+    width: 10vw;
+    left: 3vw;
+    top: 14vw;
+    padding-bottom: 3vw;
+}
+
+#flobot2{
+    font-size: 2vw;
+    font-weight: 600;
+}
+
+.forever2{
+    width: 90vw;
+    position: relative;
+    display: flex;
+    justify-content: start;
+    top: 14vw;
+    padding-bottom: 2vw;
+    left: 3vw;
+}
+
+.boxgray2{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    right: 5vw;
+    top: 5.5vw;
+}
+
+input[type="email2"]{
+    position: relative;
+    width: 24vw;
+    height: 2vw;
+    border: none;
+    background: #E3E3E3;
+    outline: none;
+    left: 1.5vw;
+    font-size: 1.3vw;
+}
+
+
+.input-container2 input::placeholder {
+    color: #ADB1A9;
+    padding-left: 0.5vw;
+}
+
+.input-container2 input[type="email2"] {
+    padding-left: 0.7vw; 
+}
+
+
+.boxsent2{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    top: 0.3vw;
+    left: 2.5vw;
+}
+
+.sent2{
+    position: relative;
+    width: 1.5vw;
+    height: 1.5vw;
+    display: flex;
+}
+
+.email2{
+    width: 5vw;
+    position: relative;
+    display: flex;
+    justify-content: right;
+
+}
+ 
+

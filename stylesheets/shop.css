@@ -1,0 +1,621 @@
+body{
+    background-color: #D0D0D0;
+    width: auto;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+}
+
+:root{
+    font-family: 'Montserrat';
+}
+
+.ballcur{
+    position: fixed;
+    width: 5vw;
+    height: 5vw;
+    border-radius: 50vw;
+    background: radial-gradient(#D8FFB9, #FFADEB);
+    filter: blur(10px);
+    z-index: 10;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#logo{
+    width: 5vw;
+    color: #E973CF;
+    font-weight: 550;
+    font-size: 1.4vw;
+}
+
+#logo:hover{
+    color: #FFF282;
+}
+
+.pinkbuttons{
+    width: 5vw;
+    color: #E973CF;
+    font-size: 1vw;
+}
+
+.yellowbuttons{
+    color: #FFF282;
+    font-size: 1vw;
+}
+
+/* шапка */
+
+header{
+    position: relative;
+    top: 1.5vw;
+    left: 1.5vw;
+    width: 10vw;
+    cursor: pointer;
+}
+
+#abouttheater:hover{
+    color: #D8FFB9;
+}
+
+#abouttheater{
+    position: relative;
+    top: 0.5vw;
+    left: 1.5vw;
+}
+
+#threedtour:hover{
+    color: #D8FFB9;
+}
+
+#threedtour{
+    position: relative;
+    top: 1vw;
+    left: 4vw;
+}
+
+#repertoire:hover{
+    color: #D8FFB9;
+}
+
+#repertoire{
+    position: relative;
+    top: 1.5vw;
+    left: 3vw;
+}
+
+#magazine:hover{
+    color: #D8FFB9;
+}
+
+#magazine{
+    position: relative;
+    top: 2vw;
+    left: 1vw;
+}
+
+#shop:hover{
+    color: #D8FFB9;
+}
+
+#shop{
+    position: relative;
+    top: 2.5vw;
+    left: 2.5vw;
+}
+
+#aboutunusual:hover{
+    color: #D8FFB9;
+}
+
+#aboutunusual{
+    position: relative;
+    top: 3vw;
+    left: 3.5vw;
+}
+
+#basketheader{
+    width: 6vw;
+    position: relative;
+    left: 89.5vw;
+    bottom: 7vw;
+    font-weight: 400;
+}
+
+#basketheader:hover{
+    color: #D8FFB9;
+}
+
+.baskimg{
+    width: 2.5vw;
+    position: relative;
+    bottom: 8.7vw;
+    left: 94.5vw;
+}
+
+/* блюр на фоне */
+.circlefirstone{
+    background-color: #CCC8FF;
+    opacity: 31%;
+    overflow: hidden;
+    width:50vw;
+    height:90vw;
+    top: 10vw;
+    left: 40vw;
+    border-radius: 100px;
+    filter: blur(70px);
+    margin: -15px;
+    position: absolute;
+    z-index: 0;
+}
+
+.circletwosecondtwo{
+    background-color: #FFFDC6;
+    opacity: 20%;
+    overflow: hidden;
+    width:50vw;
+    height:70vw;
+    border-radius: 100px;
+    filter: blur(70px);
+    top: 120vw;
+    left: 40vw;
+    position: absolute;
+    z-index: 0;
+}
+
+/* карточки */
+
+
+.gallery{
+    height: 190vw ;
+}
+
+.gallery .imgshop{
+    width: 25vw;
+    position: relative;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+}
+
+.one{
+    left: 5vw;
+    top: 10vw;
+}
+
+p{
+    color: #E973CF;
+    font-size: 1.2vw;
+    font-weight: 500;
+}
+
+.shopper {
+    position: relative;
+    bottom: 2vw;
+    left: 1vw;
+}
+
+.palochki{
+    position: relative;
+    bottom: 2vw;
+    left: 1vw;
+}
+
+.water{
+    position: relative;
+    bottom: 2vw;
+    left: 1vw;
+}
+
+.pencils{
+    position: relative;
+    bottom: 2vw;
+    left: 1vw;
+}
+
+.binokle{
+    position: relative;
+    bottom: 2vw;
+    left: 1vw;
+}
+
+.braslet{
+    position: relative;
+    bottom: 2vw;
+    left: 1vw;
+}
+
+.znachok{
+    position: relative;
+    bottom: 2vw;
+    left: 1vw;
+}
+
+.pitdop{
+    position: relative;
+    bottom: 2vw;
+    left: 1vw;
+}
+
+.brelok{
+    position: relative;
+    bottom: 2vw;
+    left: 1vw;
+}
+
+.basketone{
+    position: relative;
+    width: 2vw;
+    height: 4vw;
+    left: 37vw;
+    top: 6vw;
+
+}
+
+.basketone img{
+    width: 2vw;
+    cursor: pointer;
+}
+
+.baskettwo{
+    position: relative;
+    width: 2vw;
+    height: 4vw;
+    left: 87vw;
+    bottom: 9vw;
+}
+
+.baskettwo img{
+    width: 2vw;
+    cursor: pointer;
+}
+
+.basketthree{
+    position: relative;
+    width: 2vw;
+    height: 4vw;
+    left: 44vw;
+    bottom: 9vw;
+}
+
+.basketthree img{
+    width: 2vw;
+    cursor: pointer;
+}
+
+.basketfour{
+    position: relative;
+    width: 2vw;
+    height: 4vw;
+    left: 85vw;
+    bottom: 19vw;
+}
+
+.basketfour img{
+    width: 2vw;
+    cursor: pointer;
+}
+
+.basketfive{
+    position: relative;
+    width: 2vw;
+    height: 4vw;
+    left: 42vw;
+    bottom: 19vw;
+}
+
+.basketfive img{
+    width: 2vw;
+    cursor: pointer;
+}
+
+.basketsix{
+    position: relative;
+    width: 2vw;
+    height: 4vw;
+    left: 92vw;
+    bottom: 34vw;
+}
+
+.basketsix img{
+    width: 2vw;
+    cursor: pointer;
+}
+
+.basketseven{
+    position: relative;
+    width: 2vw;
+    height: 4vw;
+    left: 37vw;
+    bottom: 39vw;
+}
+
+.basketseven img{
+    width: 2vw;
+    cursor: pointer;
+}
+
+.basketeight{
+    position: relative;
+    width: 2vw;
+    height: 4vw;
+    left: 87vw;
+    bottom: 49vw;
+}
+
+.basketeight img{
+    width: 2vw;
+    cursor: pointer;
+}
+
+.basketnine{
+    position: relative;
+    width: 2vw;
+    height: 4vw;
+    left: 42vw;
+    bottom: 59vw;
+}
+
+.basketnine img{
+    width: 2vw;
+    cursor: pointer;
+}
+
+.two{
+    left: 55vw;
+    bottom: 5vw;
+}
+
+.three{
+    left: 12vw;
+    bottom: 5vw;
+} 
+
+.four{
+    left: 53vw;
+    bottom: 15vw;
+}
+
+.five{
+    bottom: 15vw;
+    left: 10vw;
+}
+
+.six{
+    bottom: 30vw;
+    left: 60vw;
+}
+
+.seven{
+    left: 5vw;
+    bottom: 35vw;
+}
+
+.eight{
+    bottom: 45vw;
+    left: 55vw;
+}
+
+.nine{
+    bottom: 55vw;
+    left: 10vw;
+}
+
+.imgshop img{
+    width: 35vw;
+    object-fit: cover;
+    transition: .5s;
+    cursor: nesw-resize;
+}
+
+.gallery .imgshop:hover img{
+    transform: scale(1.1);
+}
+
+.popup img{
+    width: 50vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.gallery .popup{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #6868685e;
+    display: none;
+}
+
+.gallery .popup span{
+    position: fixed;
+    top: 15vw;
+    right: 21vw;
+    width: 2vw;
+    height: 2vw;
+    background: #ffffff00;
+    font-size: 3vw;
+    text-align: center;
+    line-height: 2vw;
+    cursor: pointer;
+    color: #D8FFB9;
+}
+
+/* цвет текста и текст */
+
+.firsttext{
+    width: 20vw;
+    position: relative;
+    left: 46vw;
+    bottom: 10vw;
+}
+
+.secondtext{
+    width: 20vw;
+    position: relative;
+    left: 43vw;
+    bottom: 9.6vw;
+}
+
+.thirdtext{
+    width: 20vw;
+    position: relative;
+    left: 55vw;
+    bottom: 20vw;
+    line-height: 1.6vw;
+}
+
+.thirdtexttwo{
+    width: 20vw;
+    position: relative;
+    left: 60vw;
+    bottom: 19.7vw;
+}
+
+.fourtext{
+    width: 20vw;
+    position: relative;
+    left: 6vw;
+    bottom: 32vw;
+    line-height: 1.6vw;
+}
+
+.fourtexttwo{
+    width: 20vw;
+    position: relative;
+    left: 13vw;
+    bottom: 31.8vw;
+}
+
+.fivetext{
+    width: 25vw;
+    position: relative;
+    left: 50vw;
+    bottom:53vw;
+}
+
+.fivetexttwo{
+    width: 20vw;
+    position: relative;
+    left: 70vw;
+    bottom: 52.6vw;
+}
+
+.sixtext{
+    position: relative;
+    width: 25vw;
+    left: 65vw;
+    bottom: 42vw;
+}
+
+.sixtexttwo{
+    position: relative;
+    width: 20vw;
+    left: 60vw;
+    bottom: 41.5vw;
+}
+
+.yellowcolor {
+    color: #FFF282;
+}
+
+.pinkcolor{
+    color: #E973CF;
+}
+
+.greencolor{
+    color: #D8FFB9;
+}
+
+
+/* подвал */
+
+.newtext{
+    position: relative;
+    width: 25vw;
+    left: 48vw;
+    bottom: 50.1vw;
+}
+
+.logobottom{
+    position: relative;
+    width: 10vw;
+    left: 3vw;
+    bottom: 51.5vw;
+    padding-bottom: 3vw;
+}
+
+#flobot{
+    font-size: 2vw;
+    font-weight: 600;
+}
+
+.forever{
+    position: relative;
+    width: 50vw;
+    display: flex;
+    justify-content: start;
+    bottom: 51.5vw;
+    padding-bottom: 2vw;
+    left: 3vw;
+}
+
+.boxgray{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    right: 5vw;
+    bottom: 60vw;
+}
+
+input[type="email"]{
+    position: relative;
+    width: 24vw;
+    height: 2vw;
+    border: none;
+    background: #E3E3E3;
+    outline: none;
+    left: 1.5vw;
+    font-size: 1.3vw;
+}
+
+
+.input-container input::placeholder {
+    color: #ADB1A9;
+    padding-left: 0.5vw;
+}
+
+.input-container input[type="email"] {
+    padding-left: 0.7vw; 
+}
+
+
+.boxsent{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    top: 0.3vw;
+    left: 2.5vw;
+}
+
+.sent{
+    position: relative;
+    width: 1.5vw;
+    height: 1.5vw;
+    display: flex;
+}
+
+ 
+
+
+
+
+
